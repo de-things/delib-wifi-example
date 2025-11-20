@@ -3,7 +3,7 @@
 
 ### How to deploy a firmware
 1. Install  **[ESP8266 Community](https://github.com/esp8266/Arduino)** board extension and select `Generic ESP8266 Module` as a recognizable board to flash;
-2. Install **[delib](https://github.com/de-things/delib/tree/main)**;
+2. Install **[delib](https://github.com/de-things/delib)**;
 3. Flash firmware to the `Generic ESP8266 Module`.
   
 ### Hardware used in assembly
