@@ -44,6 +44,7 @@ void setup() {
   delib.set_wifi_credentials("your_wifi_name", "your_wifi_password"); // wifi credentials
   delib.set_secret("YOUR_AUTH_SECRET"); // request secret
   delib.set_device_name("Wawa"); // device name
+  delib.set_lcd_attributes(0x3F, 16, 2); // lcd screen parameters (based on 1602 lcd 16x2 screen)
 
   delib.init(mac); // init delib
 }
