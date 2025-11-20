@@ -2,7 +2,7 @@
 
 #define RELAY_PIN 14 // some pin to work with
 
-byte mac[] = { 0x15, 0x15, 0x15, 0x15, 0x15, 0x15 }; // some mac to assign to device
+byte mac[] = { 0x15, 0x15, 0x15, 0x15, 0x15, 0x15 }; // some mac device to assign
 
 DelibWlan delib = DelibWlan(); // delib instance
 
