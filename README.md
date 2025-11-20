@@ -3,8 +3,9 @@
 
 ### How to deploy a firmware
 1. Install  **[ESP8266 Community](https://github.com/esp8266/Arduino)** board extension and select `Generic ESP8266 Module` as a recognizable board to flash;
-2. Install **[delib](https://github.com/de-things/delib/tree/main)**.
-
+2. Install **[delib](https://github.com/de-things/delib/tree/main)**;
+3. Flash firmware to the Generic ESP8266 Module.
+  
 ### Hardware used in assembly
 * **[Troyka WiFi](https://wiki.amperka.ru/%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B:troyka-wi-fi)**
 * **[Mini-Relay](https://wiki.amperka.ru/%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B:troyka-mini-relay)**
